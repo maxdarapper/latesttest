@@ -26,4 +26,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)savebutton:(id)sender {
+    NSLog(@"hello there people");
+}
 @end
